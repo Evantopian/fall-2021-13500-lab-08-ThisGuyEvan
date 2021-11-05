@@ -1,3 +1,12 @@
+/*
+Author: Evan Huang
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 08
+  - Creating the images from funcs.cpp (TASKS A-F).
+*/
+
+
 #include <iostream>
 #include "imageio.h"
 #include "funcs.h"
