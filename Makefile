@@ -1,5 +1,3 @@
-CXXFLAGS= -std=c++11
-
 main: main.o imageio.o funcs.o
 	g++ -o main main.o imageio.o funcs.o
 
