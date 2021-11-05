@@ -1,3 +1,12 @@
+/*
+Author: Evan Huang
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 08
+  - Header functions for tasks A-F.
+*/
+
+
 #pragma once
 
 void invert(std::string img_file, int image[][MAX_W]);
