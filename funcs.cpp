@@ -1,3 +1,11 @@
+/*
+Author: Evan Huang
+Course: CSCI-135
+Instructor: Mike Zamansky
+Assignment: Lab 08
+  - Functions to complete tasks A-F.
+*/
+
 #include <iostream>
 #include "imageio.h"
 
